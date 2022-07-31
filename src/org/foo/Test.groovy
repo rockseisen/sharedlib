@@ -6,8 +6,8 @@ public class Test {
         name = a;
     }
 
-    public String getA() {
-        return a;
+    public String getName() {
+        return name;
     }
 
 }
